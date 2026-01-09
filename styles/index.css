@@ -69,3 +69,31 @@
     border-radius: 5px;
     padding: 16px;
 }
+
+.knowledge-section{
+    text-align: center;
+    gap: 44px;
+}
+
+.knowledge-section h1{
+    font-size: 48px;
+    font-style: bold;
+}
+.structure{
+    margin: 48px 0 ;
+
+}
+.card-container{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+.card-box{
+    height: 300px;
+    width: 322px;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0 ,0.1);
+}
+.card-box img{
+    background-color: #F95555;
+    margin: 69.5px 131px 16px 131px;
+}
