@@ -24,3 +24,48 @@
     border: none;
     border-radius: 5px;
 }
+
+.hero{
+    background-image: url('../assets/hero-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 580px;
+}
+.hero-div {
+    padding: 57px 120px ;
+    text-align: center;
+}
+.hero-div button{
+    background-color: white;
+    color: #30B868;
+    border-radius: 20px;
+    border: none;
+}
+.hero-div h1{
+    color: white;
+    margin-bottom: 16px ;
+
+}
+.hero-div h1 span{
+    color: #30B868;
+}
+.hero-div p{
+    color: white;
+    font-size: 18px;
+    line-height: 24px;
+}
+.hero-div .btn .btn-primary{
+    background-color: #469165;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 16px;
+
+}
+.hero-div .btn .btn-secondary{
+    background-color: transparent;
+    border: 2px solid #30B868;
+    color: #30B868;
+    border-radius: 5px;
+    padding: 16px;
+}
